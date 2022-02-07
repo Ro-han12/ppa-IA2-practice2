@@ -1,1 +1,15 @@
 
+Breakpoint 1, main () at p1original.c:19
+19  {
+(gdb) n
+21    input(&base,&height);
+(gdb) n
+enter the value of base: n
+enter the value of height: n
+22    area(base,height,&t);
+(gdb) n
+23    output(base,height,t);
+(gdb) n
+24    return 0;
+(gdb) n
+25  }
