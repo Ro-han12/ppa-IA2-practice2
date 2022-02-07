@@ -12,4 +12,4 @@ enter the value of height: n
 (gdb) n
 24    return 0;
 (gdb) n
-25  }
+ }
