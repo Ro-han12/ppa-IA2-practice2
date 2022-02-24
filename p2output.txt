@@ -1,1 +1,16 @@
 
+Breakpoint 1, main () at p2original.c:23
+23    a=input_side();
+(gdb) n
+enter the three sides->n
+24    b=input_side();
+(gdb) n
+25    c=input_side();
+(gdb) n
+26    res=check_scelene(a,b,c);
+(gdb) n
+27    output(a,b,c,res);
+(gdb) n
+28    return 0;
+(gdb) n
+30  }
