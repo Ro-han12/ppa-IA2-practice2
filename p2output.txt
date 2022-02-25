@@ -85,3 +85,4 @@ main () at p2original.c:41
 Continuing.
 [Inferior 1 (process 1689) exited normally]
 (gdb)
+.
