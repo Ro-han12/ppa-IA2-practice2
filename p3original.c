@@ -38,4 +38,3 @@ c=composite(n);
 output(n,c);
 return 0;
 }
-.
