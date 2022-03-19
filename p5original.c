@@ -31,4 +31,3 @@ int main()
   out_put(a,b,gcd);
   return 0;
 }
-.
