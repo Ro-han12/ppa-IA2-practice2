@@ -23,3 +23,4 @@ int main()
   output(base,height,t);
   return 0;
 }
+.
